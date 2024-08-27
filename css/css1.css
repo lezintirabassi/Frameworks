@@ -1,10 +1,27 @@
 body {
     background-color:rgb(53, 53, 53);
 }
-li:hover {
+#inicio:hover {
     background-color: red;
     cursor: pointer;
 }
-a#1:hover{
+#produtos:hover {
+    background-color: red;
     cursor: pointer;
+}
+#estadio:hover {
+    background-color: red;
+    cursor: pointer;
+}
+#historia:hover {
+    background-color: red;
+    cursor: pointer;
+}
+.search-query {
+    background-color: red;
+}
+#spfc {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: Red;
 }
